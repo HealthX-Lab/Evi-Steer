@@ -1,3 +1,5 @@
+<div align="center">
+
 # Evi-Steer: Learning to Steer Biomedical Vision-Language Models through Efficient and Generalizable Evidential Tuning
 **[Health-X Lab](http://www.healthx-lab.ca/)** | **[IMPACT Lab](https://users.encs.concordia.ca/~impact/)** 
 
@@ -8,6 +10,8 @@
 <a href="https://huggingface.co/datasets/TahaKoleilat/BiomedCoOp" target="_blank"><img alt="HuggingFace Dataset" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Datasets-Access-ffc107?color=ffc107&logoColor=white" height="25"/></a>
 <a href="https://huggingface.co/TahaKoleilat/Evi-Steer" target="_blank"><img alt="HuggingFace Models" src="https://img.shields.io/badge/Models-Reproduce-2ea44f?logo=huggingface&logoColor=white" height="25"/></a>
 <a href="#citation"><img alt="Citation" src="https://img.shields.io/badge/Citation-BibTeX-6C63FF?logo=bookstack&logoColor=white" height="25"/></a>
+
+</div>
 
 ## Overview
 
