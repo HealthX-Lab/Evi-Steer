@@ -97,11 +97,13 @@ If you use our work, please consider citing:
   year={2025}
 }
 
-@article{koleilat2025singular,
-  title={Singular Value Few-shot Adaptation of Vision-Language Models},
-  author={Koleilat, Taha and Rivaz, Hassan and Xiao, Yiming},
-  journal={arXiv preprint arXiv:2509.03740},
-  year={2025}
+@article{koleilat2026clipsvd,
+title={{CLIP}-{SVD}: Efficient and Interpretable Vision{\textendash}Language Adaptation via Singular Values},
+author={Taha Koleilat and Hassan Rivaz and Yiming Xiao},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2026},
+url={https://openreview.net/forum?id=XYy8pwqwMR}
 }
 ```
 
