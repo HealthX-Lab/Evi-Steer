@@ -5,7 +5,7 @@
 
 [Taha Koleilat](https://tahakoleilat.github.io/), [Hassan Rivaz](https://users.encs.concordia.ca/~hrivaz/), [Yiming Xiao](https://yimingxiao.weebly.com/curriculum-vitae.html)
 
-<a href="https://arxiv.org/abs/2602.20423" target="_blank"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2602.20423-B31B1B?logo=arxiv&logoColor=white" height="25"/></a>
+<a href="https://arxiv.org/abs/2605.26292" target="_blank"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2605.26292-B31B1B?logo=arxiv&logoColor=white" height="25"/></a>
 <a href="https://tahakoleilat.github.io/Evi-Steer" target="_blank"><img alt="Project Website" src="https://img.shields.io/badge/%F0%9F%94%97%20Project-Website-blue" height="25"/></a>
 <a href="https://huggingface.co/datasets/TahaKoleilat/BiomedCoOp" target="_blank"><img alt="HuggingFace Dataset" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Datasets-Access-ffc107?color=ffc107&logoColor=white" height="25"/></a>
 <a href="https://huggingface.co/TahaKoleilat/Evi-Steer" target="_blank"><img alt="HuggingFace Models" src="https://img.shields.io/badge/Models-Reproduce-2ea44f?logo=huggingface&logoColor=white" height="25"/></a>
