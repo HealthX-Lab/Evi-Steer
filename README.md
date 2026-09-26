@@ -82,11 +82,13 @@ Please refer to the [RUN.md](assets/RUN.md) for detailed instructions on trainin
 ## Citation
 If you use our work, please consider citing:
 ```bibtex
-@article{koleilat2026evi,
-  title={Evi-Steer: Learning to Steer Biomedical Vision-Language Models through Efficient and Generalizable Evidential Tuning},
-  author={Koleilat, Taha and Rivaz, Hassan and Xiao, Yiming},
-  journal={arXiv preprint arXiv:2605.26292},
-  year={2026}
+@inproceedings{koleilat2026evisteer,
+  author    = {Taha Koleilat and Hassan Rivaz and Yiming Xiao},
+  title     = {Evi-Steer: Learning to Steer Biomedical Vision-Language Models Through Efficient and Generalizable Evidential Tuning},
+  booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026},
+  pages     = {208--218},
+  year      = {2027},
+  publisher = {Springer Nature Switzerland}
 }
 
 @inproceedings{koleilat2025biomedcoop,
